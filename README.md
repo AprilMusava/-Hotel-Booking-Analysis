@@ -14,7 +14,7 @@ Insights and Recommendations are Provided on the Following Key Areas:
 * Reservation Status Analysis
 * Waiting List Durations
 
-The Python script used for data inspection and cleaning can be found here: [SQL Queries Link].
+The Python script used for data inspection and cleaning can be found here: [[Hotel Booking Analysis Notebook](./hotel-booking.ipynb)].
 
 Data Structure & Initial Checks
 
