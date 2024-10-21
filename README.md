@@ -23,7 +23,7 @@ A brief description of the table is as follows:
 
 hotel_data: Contains booking transactions, including ADR, customer types, and reservation statuses, customer demographic details, including customer types and preferred stay periods.
 
-Raw data can be found here: [[Raw Data File]]
+Raw data can be found here: [[Raw Data File](./hotel_bookings.csv)]
 
 
 # EXECUTIVE SUMMARY
