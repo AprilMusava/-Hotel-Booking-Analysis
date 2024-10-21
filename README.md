@@ -18,9 +18,12 @@ The Python script used for data inspection and cleaning can be found here: [[Hot
 
 Data Structure & Initial Checks
 
-The main database structure consists of one table with a total row count of 119391 records. A brief description of the table is as follows:
+The main data structure consists of one table with a total row count of 119391 records. 
+A brief description of the table is as follows:
 
 hotel_data: Contains booking transactions, including ADR, customer types, and reservation statuses, customer demographic details, including customer types and preferred stay periods.
+
+Raw data can be found here: [[Raw Data File]]
 
 
 # EXECUTIVE SUMMARY
