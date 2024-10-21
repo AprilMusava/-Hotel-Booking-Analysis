@@ -7,16 +7,16 @@ Welcome to the Hotel Booking Analysis project! This repository contains an in-de
 This analysis focuses on hotel booking data for two types of hotels: City Hotel and Resort Hotel. The goal is to understand customer behavior, pricing strategies, and overall performance metrics. Key business metrics for evaluation include Average Daily Rate (ADR), customer types, cancellation rates, and average days in waiting lists.
 
 
-* Insights and Recommendations are Provided on the Following Key Areas:
+Insights and Recommendations are Provided on the Following Key Areas:
 
-Average Daily Rate (ADR) Analysis
-Customer Type Insights
-Reservation Status Analysis
-Waiting List Durations
+* Average Daily Rate (ADR) Analysis
+* Customer Type Insights
+* Reservation Status Analysis
+* Waiting List Durations
 
 The Python script used for data inspection and cleaning can be found here: [SQL Queries Link].
 
-* Data Structure & Initial Checks
+Data Structure & Initial Checks
 
 The main database structure consists of one table with a total row count of 119391 records. A brief description of the table is as follows:
 
@@ -29,16 +29,16 @@ hotel_data: Contains booking transactions, including ADR, customer types, and re
 
 The analysis reveals significant trends in hotel booking performance, customer behavior, and pricing strategies. Key takeaways for stakeholders include:
 
-ADR Comparison: 
+* ADR Comparison: 
 Resort Hotel has a higher ADR during the months of May to September, indicating a peak season. City Hotel also shows elevated ADR from May to August, but significantly lower than Resort Hotel.
 
-Customer Types: 
+* Customer Types: 
 The highest customer type is transient in both hotels, with a preference for weeknight stays. City Hotel has higher numbers of check-outs and cancellations, while Resort Hotel exhibits a higher average lead time.
 
-Reservation Statuses: 
+* Reservation Statuses: 
 Transient customers show more check-outs and cancellations. Additionally, customers with no deposits have higher reservation rates across all hotels.
 
-Waiting List Durations: 
+* Waiting List Durations: 
 Average days on the waiting list are higher in City Hotel than in Resort Hotel.
 
 
@@ -87,13 +87,13 @@ Comparison of Waiting Lists: The average days on the waiting list are higher for
 
 Based on the insights and findings above, we would recommend the marketing and sales teams to consider the following:
 
-Pricing Strategies: Explore dynamic pricing strategies during peak months for Resort Hotels to maximize revenue.
+* Pricing Strategies: Explore dynamic pricing strategies during peak months for Resort Hotels to maximize revenue.
 
-Targeted Marketing: Develop tailored marketing campaigns focused on transient customers and promote weeknight stays.
+* Targeted Marketing: Develop tailored marketing campaigns focused on transient customers and promote weeknight stays.
 
-Improve Cancellation Policies: Investigate the reasons behind cancellations and improve policies to reduce their occurrence.
+* Improve Cancellation Policies: Investigate the reasons behind cancellations and improve policies to reduce their occurrence.
 
-Utilize Waiting List Data: Leverage insights from waiting list durations to enhance customer satisfaction and manage bookings more effectively.
+* Utilize Waiting List Data: Leverage insights from waiting list durations to enhance customer satisfaction and manage bookings more effectively.
 
 
 # Assumptions and Caveats
