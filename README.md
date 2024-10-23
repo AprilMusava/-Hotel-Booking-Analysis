@@ -103,5 +103,5 @@ Based on the insights and findings above, we would recommend the marketing and s
 
 Throughout the analysis, several assumptions were made to manage data challenges:
 
-Assumption: Missing customer demographic records were inferred based on overall trends observed within the dataset.
-Assumption: Records with non-sensical values were excluded to maintain data integrity.
+* Assumption: Missing customer demographic records were inferred based on overall trends observed within the dataset.
+* Assumption: Records with non-sensical values were excluded to maintain data integrity.
